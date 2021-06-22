@@ -1,6 +1,7 @@
 # StockFrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.28.
+This is a stock analysis lab.
 
 ## Development server
 
